@@ -2,18 +2,6 @@
 
 This repository contains scripts for running YOLOv5 benchmarks on all supported export formats, training the YOLOv5 model on custom datasets, and validating trained models. YOLOv5 is a state-of-the-art object detection model.
 
-## Table of Contents
-
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Benchmarking](#benchmarking)
-  - [Detection](#detection)
-  - [Training](#training)
-  - [Validation](#validation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Requirements
 To run the scripts in this repository, you'll need the following dependencies:
 - Python 3.6+
@@ -40,7 +28,7 @@ Text files with detection information (if --save-txt is used)
 CSV files with detection information (if --save-csv is used)
 
 ## Contributing
-Contributions to improve the code or add new features are welcome. Please feel free to submit a Pull Request.
+Contributions to improve the code or add new features are welcome.
 
 ## Acknowledgments
 This code is based on the Ultralytics YOLOv5 project. Please refer to their repository for more detailed information about the YOLOv5 architecture and training process.

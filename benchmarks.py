@@ -1,4 +1,3 @@
-
 """
 Run YOLOv5 benchmarks on all supported export formats.
 
